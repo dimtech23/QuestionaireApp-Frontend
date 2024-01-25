@@ -1,0 +1,12 @@
+.dashboard {
+  display: flex;
+}
+
+.dashboard-content {
+  flex-grow: 1;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-left: 50px; /* Adjust margin to accommodate the width of the sidebar */
+}
+
+/* Add additional styles for your dashboard if needed */
